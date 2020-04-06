@@ -1,5 +1,7 @@
-//参考连接：https://mp.weixin.qq.com/s/Fp9ueMRo-y8gTyxifJ84CQ
-//解决缓存击穿的一种思路
+// 安装：go官方库
+// 作用：解决缓存击穿的一种思路
+// 参考连接：https://mp.weixin.qq.com/s/Fp9ueMRo-y8gTyxifJ84CQ
+
 package main
 
 import (

@@ -1,6 +1,6 @@
-// go get github.com/thedevsaddam/gojsonq
-// 参考连接：https://mp.weixin.qq.com/s/ZfaH6ROWiVX9IsoxJ04oXw
-// github:https://github.com/thedevsaddam/gojsonq
+// 安装：go get github.com/thedevsaddam/gojsonq
+// 作用：读取 JSON 中的某一些字段
+// 参考资料：https://mp.weixin.qq.com/s/ZfaH6ROWiVX9IsoxJ04oXw
 package gojsonuse
 
 import (
