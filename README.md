@@ -25,3 +25,14 @@ go语言中第三方包的使用和借鉴
 安装：go get github.com/ThreeDotsLabs/watermill  
 作用：watermill一个异步消息解决方案，支持消息重传，消息保存， 内置多种订阅-发布实现，支持kafka和rabbitmq等  
 参考链接：go get github.com/ThreeDotsLabs/watermill
+
+### gopsutil
+安装： go get github.com/shirou/gopsutil  
+作用： gopsutil 是python工具库psutil的golang移植版，  
+用来获取各种操作系统和硬件信息，并且屏蔽了各个系统之间的差异。  
+参考链接：https://mp.weixin.qq.com/s/LCmFOHQ6Pb2UgeIjqG3cSA
+
+### govaluate
+安装：go get github.com/Knetic/govaluate  
+作用：用于计算任意表达式的值  
+参考链接：https://mp.weixin.qq.com/s/X6yMzAoylNbuXj4CfudQLw
