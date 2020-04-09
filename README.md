@@ -36,3 +36,9 @@ go语言中第三方包的使用和借鉴
 安装：go get github.com/Knetic/govaluate  
 作用：用于计算任意表达式的值  
 参考链接：https://mp.weixin.qq.com/s/X6yMzAoylNbuXj4CfudQLw
+
+### go-playground/validator
+安装：go get github.com/go-playground/validator/v10  
+作用：对数据进行校验，如web开发中用户提交的某些数据  
+参考链接：https://mp.weixin.qq.com/s/1DcEJvQpQr-xX3LFyUf4Nw
+  

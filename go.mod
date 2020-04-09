@@ -7,6 +7,7 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/ThreeDotsLabs/watermill v1.1.1
 	github.com/go-ole/go-ole v1.2.4 // indirect
+	github.com/go-playground/validator/v10 v10.2.0
 	github.com/jinzhu/copier v0.0.0-20190924061706-b57f9002281a
 	github.com/shirou/gopsutil v2.20.3+incompatible
 	github.com/thedevsaddam/gojsonq v2.3.0+incompatible
